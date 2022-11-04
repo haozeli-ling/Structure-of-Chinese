@@ -1,2 +1,2 @@
-# Structure-of-Chinese
+# Structure of Chinese
 A course in Chinese Linguistics
